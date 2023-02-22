@@ -16,7 +16,7 @@ Essa aplicação é a integração que permitirá os usuários interagem com o C
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Node.JS](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [OpenIA](https://openai.com/api/)
+- [OpenAI](https://openai.com/api/)
 - [Venom-Bot](https://github.com/orkestral/venom)
 
 
