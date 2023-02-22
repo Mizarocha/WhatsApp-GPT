@@ -8,7 +8,7 @@
 
 ### Aplicação:
 
-Essa aplicação é a integração que permitirá os usuários interajam com o ChatGPT através de mensagens de texto no WhatsApp, fornecendo respostas automatizadas baseadas em suas perguntas e comandos.
+Essa aplicação é a integração que permitirá os usuários interagem com o ChatGPT através de mensagens de texto no WhatsApp, fornecendo respostas automatizadas baseadas em suas perguntas e comandos.
 
 
 ### Ferramentas e Tecnologias: 
